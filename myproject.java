@@ -16,7 +16,8 @@ public class Calculator {
 
         System.out.println("Sum is: " + sum);
 
-        scanner.close();
+    System.out.println("Sum is: " + sum);
+    	scanner.close();
     }
 }
 
